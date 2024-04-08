@@ -1,0 +1,19 @@
+<form>
+        <div>
+            <label>nome</label>
+                <input type="text" placeholder="nome">
+            <label>sobrenome</label> 
+                <input type="text" placeholder="sobrenome">
+        <label>categoria</label>
+        <select name="age" id="">
+            <option value="0"></option>
+            <option value="1">adulto</option>
+            <option value="2">criança</option>
+        </select>
+    </div>
+    <div style="position: relative; top: 10px; left: 5px;">
+        <button>salvar</button>
+        <button>cancelar</button>
+    </div>
+</form>
+    
